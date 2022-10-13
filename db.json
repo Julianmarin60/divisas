@@ -2,13 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "type": "dolar",
+      "name": "dolar",
       "value": 4607.91
     },
     {
       "id": 2,
-      "type": "euro",
+      "name": "euro",
       "value": 4471.45
+    },
+    {
+      "id": 3,
+      "name": "libras estelinas",
+      "value": 45109.18
     }
   ]
 }
